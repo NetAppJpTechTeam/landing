@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NetApp Japan Tech Team</title>
-    <link>https://netappjptech.github.io/NetAppJpTech/tags/</link>
+    <link>https://netappjptechteam.github.io/landing/tags/</link>
     <description>Recent content in Tags on NetApp Japan Tech Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://netappjptech.github.io/NetAppJpTech/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://netappjptechteam.github.io/landing/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
