@@ -1,4 +1,4 @@
-baseurl = "https://netappjptechteam.github.io"
+baseurl = "https://netappjptech.github.io/NetAppJpTech"
 languageCode = "en-us"
 title = "NetApp Japan Tech Team"
 theme = "hugo-creative-theme"
