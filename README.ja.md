@@ -1,6 +1,6 @@
 # NetApp Japan Tech Team site
 
-NetApp Japan technical team のランディングページ
+NetApp Japan technical team のランディングページです。
 
 以下のURLで公開しています。
 
@@ -9,7 +9,7 @@ NetApp Japan technical team のランディングページ
 
 * Read this in other languages: [English](README.md)
 
-## What is this?
+## ここではなにを公開するのか。
 
 ここでは以下のコンテンツを公開しています。
 
@@ -18,7 +18,9 @@ NetApp Japan technical team のランディングページ
 - 便利スクリプト
 - など
 
-なにか希望するコンテンツがあればリクエストいただければと思います。(issuesから登録ください。)
+希望するコンテンツがあればリクエストいただければと思います。(issuesから登録ください。)
+
+## ページの更新方法
 
 ## Authors
 
